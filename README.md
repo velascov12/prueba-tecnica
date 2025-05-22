@@ -6,9 +6,9 @@ Solución completa a los 3 ejercicios de la prueba técnica, implementando anál
 
 | Ejercicio | Nivel | Descripción | Tecnologías |
 |-----------|-------|-------------|-------------|
-| **[Ejercicio 1](./ejercicio1/)** | Principiante | Función número más frecuente | Python, Collections |
-| **[Ejercicio 2](./ejercicio2/)** | Intermedio | Web scraping MercadoLibre | Requests, BeautifulSoup |
-| **[Ejercicio 3](./ejercicio3/)** | Intermedio/Avanzado | App Rick & Morty con auth | Tkinter, SQLite, API, bcrypt |
+| **[Ejercicio 1](./ejercisio1/)** | Principiante | Función número más frecuente | Python, Collections |
+| **[Ejercicio 2](./ejercisio2/)** | Intermedio | Web scraping MercadoLibre | Requests, BeautifulSoup |
+| **[Ejercicio 3](./ejercisio3/)** | Intermedio/Avanzado | App Rick & Morty con auth | Tkinter, SQLite, API, bcrypt |
 
 ## 🗂️ Estructura del Proyecto
 
